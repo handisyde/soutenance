@@ -64,12 +64,12 @@ section.title-slide h1 {
 /*********************************************
  * HEADERS
  *********************************************/
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal h4,
-.reveal h5,
-.reveal h6 {
+.reveal.rtl .slides h1,
+.reveal.rtl .slides h2,
+.reveal.rtl .slides h3,
+.reveal.rtl .slides h4,
+.reveal.rtl .slides h5,
+.reveal.rtl .slides h6 {
     margin: 0 0 20px 0;
     color: #057D9F;
     font-family: "Montserrat Medium", "League Gothic", Impact, sans-serif;
@@ -80,19 +80,19 @@ section.title-slide h1 {
     text-shadow: none;
     word-wrap: break-word; }
 
-.reveal h1 {
+.reveal.rtl .slides h1 {
     font-size: 2em; }
 
-.reveal h2 {
+.reveal.rtl .slides h2 {
     font-size: 2em; }
 
-.reveal h3 {
+.reveal.rtl .slides h3 {
     font-size: 1.25em; }
 
 /*
  * h6 is for fragment slides with a shape of a list
  */
-.reveal h6 {
+.reveal.rtl .slides h6 {
     font-size: 1em;
     color: #383838;
     position: relative;
@@ -105,7 +105,7 @@ section.title-slide h1 {
     text-transform: lowercase;
     text-align: left;
 }
-.reveal h6:before {
+.reveal.rtl .slides h6:before {
     content: '\2022';
     position: relative;
     bottom: .1em;
@@ -116,7 +116,7 @@ section.title-slide h1 {
 }
 
 
-.reveal h1 {
+.reveal.rtl .slides h1 {
     text-shadow: none; }
 
 /*********************************************
