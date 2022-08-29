@@ -1,19 +1,18 @@
 ---
-title: reveal-md deployed to gh-pages
+title: Soutenance
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: solarized
 highlight-theme: monokai
-css: custom.css
+theme: assets/styles/custom.css
+css: assets/styles/custom.css
 revealOptions:
-  controls: false
+  controls: true
   slideNumber: false
   transition: 'slide'
   backgroundTransition: 'fade'
+  progress: true
 ---
 
-# reveal-md & github-pages
+# Soutenance Paul Mercier-Handisyde
 
-{{1_getStarted.md}}
-{{2_writing.md}}
-{{3_extras.md}}
+{{1_soutenance.md}}
