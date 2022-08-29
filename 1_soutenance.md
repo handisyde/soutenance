@@ -1,5 +1,6 @@
 <!--s-->
-## Souveraineté numérique : </br> ce que les entreprises ont à y gagner
+### Souveraineté numérique, souveraineté des données :
+### Enjeux et conséquences pour les entreprises
 
 Notes: De l’affaire Snowden à l’invalidation du Privacy Shield, en moins de 10 ans, la confiance en une infrastructure Cloud globale opérée par des acteurs internationaux, et particulièrement américains, s’est sérieusement érodée.
 
@@ -9,7 +10,11 @@ La question de la souveraineté des données s’est invitée sur la feuille de 
 
 Elle reste intrinsèquement liée à celle du choix du Cloud provider.
 
-Enjeux de la souveraineté des données, conséquences pour les entreprises
+<!--v-->
+
+> La souveraineté numérique est la maîtrise de notre présent et de notre destin tels qu'ils se manifestent et s'orientent par l'usage des technologies et des réseaux informatiques.
+>
+> -- <cite>Pierre Bellanger</cite>
 
 <!--v-->
 ### 65% <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
@@ -21,15 +26,11 @@ Notes: D’après une étude Hewlett-Packard Enterprise, 65 % des cadres et diri
 En effet, malgré les initiatives européennes menées pour conquérir cette souveraineté numérique – comme le Digital Services Act – notre dépendance aux géants (américains, et de plus en plus chinois) du numérique ne cesse de s’accroître. Pour preuve : fin 2020, la capitalisation boursière combinée des GAFAM (Google, Apple, Facebook (devenu Meta), Amazon et Microsoft) pesait près de trois fois celle du CAC 40 dans son ensemble.
 
 <!--v-->
-### Dans quelle mesure la souveraineté numérique</b> est-elle un enjeu pour les entreprises françaises ?
+### Dans quelle mesure la souveraineté numérique
+### est-elle un enjeu
+### pour les entreprises françaises, européennes ?
 
 Notes: Quels sont les principaux enjeux de la souveraineté numérique ? Pourquoi les entreprises ont-elles intérêt à privilégier des solutions souveraines ? Et qu’ont-elles à gagner à déroger au “réflexe GAFAM” ?
-
-<!--v-->
-
-> La souveraineté numérique est la maîtrise de notre présent et de notre destin tels qu'ils se manifestent et s'orientent par l'usage des technologies et des réseaux informatiques.
-> 
-> -- <cite>Pierre Bellanger</cite>
 
 <!--s-->
 ## Les enjeux de la souveraineté numérique
@@ -136,6 +137,14 @@ Alors la prochaine fois que vous avez besoin d’un logiciel professionnel, d’
 Notes: Établir notre souveraineté numérique est aujourd’hui indispensable à la France et à l’Europe pour protéger nos valeurs et notre identité numérique, et limiter l’hégémonie des GAFAM. Pour faire face à la concurrence internationale, près de 9 Français sur 10 estiment qu’il est de notre devoir de soutenir des acteurs français ou européens. L’enjeu est de taille : favoriser l’émergence d’un écosystème numérique conforme aux principes et valeurs de l’Union européenne, et protecteur de nos données personnelles.
 
 Et vous, vous sentez-vous concerné(e) par la souveraineté numérique ? Si oui, privilégiez-vous les solutions européennes ? Avez-vous des success stories à partager ? Ou peut-être avez-vous rencontré des obstacles ?
+
+<!--s-->
+
+> Gouvernements du monde industriel, vous géants fatigués de chair et d’acier, je viens du Cyberespace, le nouveau domicile de l’esprit (…)
+> Vous n’êtes pas les bienvenus parmi nous.
+> Vous n’avez pas de souveraineté où nous nous rassemblons.
+> 
+> -- <cite>John Perry Barlow</cite>
 
 <!--v-->
 ### Sources
