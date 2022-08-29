@@ -3,7 +3,7 @@ title: Soutenance
 separator: <!--s-->
 verticalSeparator: <!--v-->
 highlight-theme: monokai
-theme: custom.css
+theme: solarized
 css: custom.css
 revealOptions:
   controls: true

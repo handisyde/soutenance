@@ -1,31 +1,31 @@
 <!--s-->
-# Souveraineté numérique : </br> ce que les entreprises ont à y gagner
+## Souveraineté numérique : </br> ce que les entreprises ont à y gagner
 
 test
 <!--v-->
-## 65%
+### 65%
 Notes: D’après une étude Hewlett-Packard Enterprise, 65 % des cadres et dirigeants français estiment que la souveraineté numérique est un enjeu majeur pour leur entreprise.
 
 <!--v-->
-## Mais de quoi parle-t-on ?
+### Mais de quoi parle-t-on ?
 
 Notes: Apparu dans les années 2000, le terme de “souveraineté numérique” désigne la capacité de l’État à asseoir son autorité dans le cyberespace, c’est-à-dire maîtriser ses données et limiter l’hégémonie de puissances étrangères. Aujourd’hui, force est de constater qu’il en est très loin…
 
 <!--v-->
-## GAFAM = 3 x CAC 40 !!
+### GAFAM = 3 x CAC 40 !!
 
 Notes: En effet, malgré les initiatives européennes menées pour conquérir cette souveraineté numérique – comme le Digital Services Act – notre dépendance aux géants (américains, et de plus en plus chinois) du numérique ne cesse de s’accroître. Pour preuve : fin 2020, la capitalisation boursière combinée des GAFAM (Google, Apple, Facebook (devenu Meta), Amazon et Microsoft) pesait près de trois fois celle du CAC 40 dans son ensemble.
 
 <!--v-->
-## Dans quelle mesure la souveraineté numérique</b> est-elle un enjeu pour les entreprises françaises ?
+### Dans quelle mesure la souveraineté numérique</b> est-elle un enjeu pour les entreprises françaises ?
 
 Notes: Quels sont les principaux enjeux de la souveraineté numérique ? Pourquoi les entreprises ont-elles intérêt à privilégier des solutions souveraines ? Et qu’ont-elles à gagner à déroger au “réflexe GAFAM” ?
 
 <!--s-->
-# Les enjeux de la souveraineté numérique
+## Les enjeux de la souveraineté numérique
 
 <!--v-->
-## Un enjeu stratégique
+### Un enjeu stratégique
 
 Autonomie <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
@@ -40,7 +40,7 @@ Contrairement aux entreprises européennes, les GAFAM sont soumis à des règles
 Étant donné que 92 % des données occidentales sont hébergées aux États-Unis, ce type de législation constitue une menace pour nos entreprises. Le risque : devenir une “colonie numérique” des États-Unis. Il est donc primordial de protéger nos données stratégiques (notamment celles relatives à l’innovation), de réguler l’activité des plateformes américaines en Europe, et d’investir davantage dans des solutions européennes.
 
 <!--v-->
-## Un enjeu économique
+### Un enjeu économique
 
 Notes: Selon la Commission Européenne, les géants américains du numérique ne paieraient en moyenne que 9 % d’impôts sur leurs bénéfices (contre 23 % pour les entreprises européennes). Ainsi, l’argent dépensé par nos entreprises pour accéder à ces services ne bénéficie que très peu à l’économie française et européenne.
 
@@ -49,7 +49,7 @@ Pour compenser ce faible taux d’imposition et rétablir une concurrence plus �
 Cependant, cette initiative est loin de régler le problème, puisque les GAFAM dissimuleraient près des ¾ de leur chiffre d’affaires dans des paradis fiscaux (soit 9,4 milliards d’euros en 2017).
 
 <!--v-->
-## Un enjeu éthique
+### Un enjeu éthique
 
 Vente de données aux annonceurs <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
@@ -62,7 +62,7 @@ Qu’il s’agisse de nos centres d’intérêt, de nos habitudes de consommatio
 En outre, comme l’a montré l’affaire Cambridge Analytica, les données collectées sur ces plateformes numériques peuvent être utilisées pour influencer nos comportements. Ce qui, à l’évidence, pose de graves problèmes éthiques.
 
 <!--v-->
-## Un enjeu de confidentialité des données
+### Un enjeu de confidentialité des données
 
 Notes: Selon une étude Ifop de janvier 2021, 69 % des Français sont attentifs à l’exploitation de leurs données personnelles. Et 66 % seraient prêts à renoncer à un service numérique en raison d’un manque de transparence sur l’hébergement et l’exploitation de leurs données personnelles.
 
@@ -71,7 +71,7 @@ Malgré ces préoccupations grandissantes, de nombreuses entreprises françaises
 Concrètement, si vous utilisez un logiciel américain, cela veut dire que le gouvernement américain peut potentiellement prendre connaissance de vos données, et les utiliser à des fins de surveillance.
 
 <!--s-->
-# Quel intérêt pour les entreprises françaises et européennes ?
+## Quel intérêt pour les entreprises françaises et européennes ?
 
 Notes: Aujourd’hui, l’utilisation des produits et services étrangers est particulièrement forte dans nos entreprises. Matériels informatiques, logiciels professionnels, solutions d’hébergement de données en ligne, etc. : toutes ces catégories sont écrasées par des firmes étrangères.
 
@@ -82,7 +82,7 @@ Vous l’avez compris : si nous souhaitons développer et assurer notre souverai
 Mais concrètement, qu’est-ce que les entreprises ont à gagner en choisissant le made in Europe ?
 
 <!--v-->
-## Protéger nos données
+### Protéger nos données
 
 Notes: Opter pour des solutions européennes offre une garantie essentielle en termes de protection des données. En effet, au-delà de l’obligation de se conformer au RGPD européen, elles ne sont pas soumises au Cloud Act, et protègent donc plus efficacement vos données, celles de vos collaborateurs et celles de vos clients.
 
@@ -92,7 +92,7 @@ EXPÉRIENCE PRO: En entreprise, mise en place de processus lors de la manipulati
 EXPÉRIENCE PRO2: Forum Devoxx France, conférence de Doctolib sur les performances de ses bases de données, hebergés chew Amazon.
 
 <!--v-->
-## Rassurer nos clients
+### Rassurer nos clients
 
 Notes: Face aux récentes vagues de fuites et de vols de données chez les éditeurs américains, les entreprises portent aujourd’hui une attention accrue à la sécurité et l’hébergement de leurs données.
 
@@ -101,7 +101,7 @@ Et les citoyens ont déjà de solides convictions à ce sujet : 44 % des França
 En utilisant plutôt des solutions européennes, une entreprise dispose d’un moyen supplémentaire pour rassurer ses clients et démontrer que la confidentialité de leurs données est sa priorité.
 
 <!--v-->
-## Bénéficier d’une plus grande proximité et réactivité
+### Bénéficier d’une plus grande proximité et réactivité
 
 Notes: Dernier avantage et pas des moindres : souvent plus petit, un acteur local sera plus à l’écoute de vos besoins et pourra y répondre bien plus rapidement qu’une grande entreprise avec des millions de clients et d’utilisateurs.
 
@@ -110,7 +110,7 @@ Plus besoin d’envoyer des messages en anglais à un support client lointain, v
 EXPERIENCE PRO: Architecture d'hébérgement sur mesure, au plus près du client.
 
 <!--s-->
-# Les acteurs locaux, <br> une alternative viable aux GAFAM ?
+## Les acteurs locaux, <br> une alternative viable aux GAFAM ?
 
 Notes: Selon l’étude d’Ifop, 69 % des Français se sentent contraints d’utiliser les services des géants américains en raison du manque d’alternatives européennes.
 
@@ -121,7 +121,7 @@ Cependant, en raison de la forte concurrence sur ce marché, les alternatives eu
 Alors la prochaine fois que vous avez besoin d’un logiciel professionnel, d’une plateforme d'hébergement ou d’une solution de stockage sécurisée, demandez-vous d’abord : cette solution est-elle française (ou européenne) ? Et si oui, où héberge-t-elle ses données ?
 
 <!--s-->
-# Pour conclure
+## Pour conclure
 
 Notes: Établir notre souveraineté numérique est aujourd’hui indispensable à la France et à l’Europe pour protéger nos valeurs et notre identité numérique, et limiter l’hégémonie des GAFAM. Pour faire face à la concurrence internationale, près de 9 Français sur 10 estiment qu’il est de notre devoir de soutenir des acteurs français ou européens. L’enjeu est de taille : favoriser l’émergence d’un écosystème numérique conforme aux principes et valeurs de l’Union européenne, et protecteur de nos données personnelles.
 
