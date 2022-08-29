@@ -4,7 +4,7 @@ separator: <!--s-->
 verticalSeparator: <!--v-->
 highlight-theme: monokai
 theme: assets/styles/custom.css
-css: assets/styles/custom.css
+css: custom.css
 revealOptions:
   controls: true
   slideNumber: false
