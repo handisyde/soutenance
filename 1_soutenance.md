@@ -55,9 +55,9 @@ Contrairement aux entreprises européennes, les GAFAM sont soumis à des règles
 
 Évolution législative <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
-Prise de consience
+Prise de consience <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 
-Maîtrise des coûts
+Maîtrise des coûts <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
 
 Notes: Selon la Commission Européenne, les géants américains du numérique ne paieraient en moyenne que 9 % d’impôts sur leurs bénéfices (contre 23 % pour les entreprises européennes). Ainsi, l’argent dépensé par nos entreprises pour accéder à ces services ne bénéficie que très peu à l’économie française et européenne.
 
