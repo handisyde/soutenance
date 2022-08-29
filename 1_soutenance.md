@@ -29,7 +29,7 @@ Notes: Quels sont les principaux enjeux de la souveraineté numérique ? Pourquo
 
 > La souveraineté numérique est la maîtrise de notre présent et de notre destin tels qu'ils se manifestent et s'orientent par l'usage des technologies et des réseaux informatiques.
 > 
-> -- <cite>Benjamin Franklin</cite>
+> -- <cite>Pierre Bellanger</cite>
 
 <!--s-->
 ## Les enjeux de la souveraineté numérique
