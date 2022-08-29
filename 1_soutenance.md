@@ -1,5 +1,5 @@
 <!--s-->
-### Souveraineté numérique, souveraineté des données :
+### Souveraineté numérique, souveraineté des données
 ### Enjeux et conséquences pour les entreprises
 
 Notes: De l’affaire Snowden à l’invalidation du Privacy Shield, en moins de 10 ans, la confiance en une infrastructure Cloud globale opérée par des acteurs internationaux, et particulièrement américains, s’est sérieusement érodée.
