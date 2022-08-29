@@ -1,5 +1,5 @@
-var includeFiles = require('./assets/scripts/fileInclude.js');
-var renderPuml = require('./assets/scripts/pumlpreprocessor.js');
+var includeFiles = require('./scripts/fileInclude.js');
+var renderPuml = require('./scripts/pumlpreprocessor.js');
 
 module.exports = (markdown, options) => {
     return new Promise((resolve, reject) => {
