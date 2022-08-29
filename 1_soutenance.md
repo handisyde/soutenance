@@ -1,7 +1,6 @@
 <!--s-->
 ## Souveraineté numérique : </br> ce que les entreprises ont à y gagner
 
-test
 <!--v-->
 ### 65%
 Notes: D’après une étude Hewlett-Packard Enterprise, 65 % des cadres et dirigeants français estiment que la souveraineté numérique est un enjeu majeur pour leur entreprise.
