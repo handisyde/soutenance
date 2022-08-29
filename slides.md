@@ -13,6 +13,8 @@ revealOptions:
   progress: true
 ---
 
-## Soutenance Paul Mercier-Handisyde
+## Soutenance
+### Paul Mercier-Handisyde
+#### 30 août 2022
 
 {{1_soutenance.md}}
