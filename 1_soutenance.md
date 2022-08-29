@@ -53,6 +53,12 @@ Contrairement aux entreprises européennes, les GAFAM sont soumis à des règles
 <!--v-->
 ### Un enjeu économique
 
+Évolution législative <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
+Prise de consience
+
+Maîtrise des coûts
+
 Notes: Selon la Commission Européenne, les géants américains du numérique ne paieraient en moyenne que 9 % d’impôts sur leurs bénéfices (contre 23 % pour les entreprises européennes). Ainsi, l’argent dépensé par nos entreprises pour accéder à ces services ne bénéficie que très peu à l’économie française et européenne.
 
 Pour compenser ce faible taux d’imposition et rétablir une concurrence plus équitable, le Parlement français a voté en 2019 la “taxe GAFAM”. Objectif : taxer de 3 % le chiffre d’affaires numérique réalisé par ces entreprises en France, c’est-à-dire les revenus relevant de prestations de ciblage publicitaire et d’intermédiation.
