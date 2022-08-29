@@ -13,6 +13,6 @@ revealOptions:
   progress: true
 ---
 
-# Soutenance Paul Mercier-Handisyde
+## Soutenance Paul Mercier-Handisyde
 
 {{1_soutenance.md}}
