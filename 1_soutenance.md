@@ -174,7 +174,11 @@ EXPERIENCE PRO: Architecture d'hébérgement sur mesure, au plus près du client
 <!--s-->
 ## Pour conclure
 
-Notes: Établir notre souveraineté numérique est aujourd’hui indispensable à la France et à l’Europe pour protéger nos valeurs et notre identité numérique, et limiter l’hégémonie des GAFAM. Pour faire face à la concurrence internationale, près de 9 Français sur 10 estiment qu’il est de notre devoir de soutenir des acteurs français ou européens. L’enjeu est de taille : favoriser l’émergence d’un écosystème numérique conforme aux principes et valeurs de l’Union européenne, et protecteur de nos données personnelles.
+Notes: Établir notre souveraineté numérique est aujourd’hui indispensable à la France et à l’Europe pour protéger nos valeurs et notre identité numérique, et limiter l’hégémonie des GAFAM. Pour faire face à la concurrence internationale,
+
+près de 9 Français sur 10 estiment qu’il est de notre devoir de soutenir des acteurs français ou européens.
+
+L’enjeu est de taille : favoriser l’émergence d’un écosystème numérique conforme aux principes et valeurs de l’Union européenne, et protecteur de nos données personnelles.
 
 Et vous, vous sentez-vous concerné(e) par la souveraineté numérique ? Si oui, privilégiez-vous les solutions européennes ? Avez-vous des success stories à partager ? Ou peut-être avez-vous rencontré des obstacles ?
 
