@@ -178,13 +178,6 @@ Notes: Établir notre souveraineté numérique est aujourd’hui indispensable �
 
 Et vous, vous sentez-vous concerné(e) par la souveraineté numérique ? Si oui, privilégiez-vous les solutions européennes ? Avez-vous des success stories à partager ? Ou peut-être avez-vous rencontré des obstacles ?
 
-<!--s-->
-
-> Gouvernements du monde industriel, vous géants fatigués de chair et d’acier, je viens du Cyberespace, le nouveau domicile de l’esprit (…)
-> Vous n’êtes pas les bienvenus parmi nous.
-> Vous n’avez pas de souveraineté où nous nous rassemblons.
-> 
-> -- <cite>John Perry Barlow</cite>
 
 <!--v-->
 ### Sources
