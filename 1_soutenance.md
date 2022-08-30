@@ -66,6 +66,17 @@ Pour compenser ce faible taux d’imposition et rétablir une concurrence plus �
 Cependant, cette initiative est loin de régler le problème, puisque les GAFAM dissimuleraient près des ¾ de leur chiffre d’affaires dans des paradis fiscaux (soit 9,4 milliards d’euros en 2017).
 
 <!--v-->
+
+<!--v-->
+### Un enjeu technologique
+
+Maturité <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
+Peu  d'effets de levier<!-- .element: class="fragment fade-in" data-fragment-index="2" -->
+
+Maîtrise des coûts <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
+
+
 ### Un enjeu éthique
 
 Vente de données aux annonceurs <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
@@ -88,7 +99,7 @@ Malgré ces préoccupations grandissantes, de nombreuses entreprises françaises
 Concrètement, si vous utilisez un logiciel américain, cela veut dire que le gouvernement américain peut potentiellement prendre connaissance de vos données, et les utiliser à des fins de surveillance.
 
 <!--s-->
-## Quel intérêt pour les entreprises françaises et européennes ?
+## Quel intérêt pour les entreprises ?
 
 Notes: Aujourd’hui, l’utilisation des produits et services étrangers est particulièrement forte dans nos entreprises. Matériels informatiques, logiciels professionnels, solutions d’hébergement de données en ligne, etc. : toutes ces catégories sont écrasées par des firmes étrangères.
 
@@ -127,7 +138,7 @@ Plus besoin d’envoyer des messages en anglais à un support client lointain, v
 EXPERIENCE PRO: Architecture d'hébérgement sur mesure, au plus près du client.
 
 <!--s-->
-## Les acteurs locaux, <br> une alternative viable aux GAFAM ?
+## Alternatives aux GAFAM et solutions ?
 
 Notes: Selon l’étude d’Ifop, 69 % des Français se sentent contraints d’utiliser les services des géants américains en raison du manque d’alternatives européennes.
 
