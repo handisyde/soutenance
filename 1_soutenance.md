@@ -2,14 +2,6 @@
 ### Souveraineté numérique, souveraineté des données
 ### Enjeux et conséquences pour les entreprises
 
-Notes: De l’affaire Snowden à l’invalidation du Privacy Shield, en moins de 10 ans, la confiance en une infrastructure Cloud globale opérée par des acteurs internationaux, et particulièrement américains, s’est sérieusement érodée.
-
-La CNIL a opposé son véto à la gestion par Microsoft du Dossier Médical Partagé, Google Analytics est également dans son viseur, et l’agence autrichienne de protection des données a également conclu que l’usage de Google Analytics ne respectait pas le RGPD.
-
-La question de la souveraineté des données s’est invitée sur la feuille de route des DSI et DPO.
-
-Elle reste intrinsèquement liée à celle du choix du Cloud provider.
-
 <!--v-->
 
 > La souveraineté numérique est la maîtrise de notre présent et de notre destin tels qu'ils se manifestent et s'orientent par l'usage des technologies et des réseaux informatiques.
@@ -21,16 +13,11 @@ Elle reste intrinsèquement liée à celle du choix du Cloud provider.
 
 ### GAFAM = 3 x CAC 40 !! <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 
-Notes: D’après une étude Hewlett-Packard Enterprise, 65 % des cadres et dirigeants français estiment que la souveraineté numérique est un enjeu majeur pour leur entreprise.
-
-En effet, malgré les initiatives européennes menées pour conquérir cette souveraineté numérique – comme le Digital Services Act – notre dépendance aux géants (américains, et de plus en plus chinois) du numérique ne cesse de s’accroître. Pour preuve : fin 2020, la capitalisation boursière combinée des GAFAM (Google, Apple, Facebook (devenu Meta), Amazon et Microsoft) pesait près de trois fois celle du CAC 40 dans son ensemble.
 
 <!--v-->
 ### Dans quelle mesure la souveraineté numérique
 ### est-elle un enjeu
 ### pour les entreprises françaises, européennes ?
-
-Notes: Quels sont les principaux enjeux de la souveraineté numérique ? Pourquoi les entreprises ont-elles intérêt à privilégier des solutions souveraines ? Et qu’ont-elles à gagner à déroger au “réflexe GAFAM” ?
 
 <!--s-->
 ## Les enjeux de la souveraineté numérique
@@ -44,11 +31,6 @@ Croissance <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 
 ~~Cloud act~~ <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
 
-Notes: La souveraineté numérique revêt d’abord un enjeu stratégique, car elle permet aux entreprises françaises de développer leur autonomie et de croître par elles-mêmes. De ce fait, elles constituent alors un contrepoids aux géants du numérique qui ont tendance à imposer leurs propres règles au sein du cyberespace.
-
-Contrairement aux entreprises européennes, les GAFAM sont soumis à des règles d’extraterritorialité (comme le Cloud Act) qui leur permettent d’accéder aux données qui transitent sur leurs serveurs, sans que leurs clients et utilisateurs en soient informés.
-
-Étant donné que 92 % des données occidentales sont hébergées aux États-Unis, ce type de législation constitue une menace pour nos entreprises. Le risque : devenir une “colonie numérique” des États-Unis. Il est donc primordial de protéger nos données stratégiques (notamment celles relatives à l’innovation), de réguler l’activité des plateformes américaines en Europe, et d’investir davantage dans des solutions européennes.
 
 <!--v-->
 ### Un enjeu économique
@@ -59,11 +41,6 @@ Prise de consience <!-- .element: class="fragment fade-in" data-fragment-index="
 
 Maîtrise des coûts <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
 
-Notes: Selon la Commission Européenne, les géants américains du numérique ne paieraient en moyenne que 9 % d’impôts sur leurs bénéfices (contre 23 % pour les entreprises européennes). Ainsi, l’argent dépensé par nos entreprises pour accéder à ces services ne bénéficie que très peu à l’économie française et européenne.
-
-Pour compenser ce faible taux d’imposition et rétablir une concurrence plus équitable, le Parlement français a voté en 2019 la “taxe GAFAM”. Objectif : taxer de 3 % le chiffre d’affaires numérique réalisé par ces entreprises en France, c’est-à-dire les revenus relevant de prestations de ciblage publicitaire et d’intermédiation.
-
-Cependant, cette initiative est loin de régler le problème, puisque les GAFAM dissimuleraient près des ¾ de leur chiffre d’affaires dans des paradis fiscaux (soit 9,4 milliards d’euros en 2017).
 
 <!--v-->
 
@@ -72,23 +49,7 @@ Cependant, cette initiative est loin de régler le problème, puisque les GAFAM 
 
 Maturité <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
-Peu  d'effets de levier <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
-
-Notes: Investir dans le Cloud au niveau européen, c’est se positionner en tant que leader technologique. 
-
-Le moment est peut-être venu de reprendre la main sur les sujets technologiques innovants, comme les processeurs ou le Cloud.
-
-L’initiative vise ainsi à proposer un écosystème de “Cloud Européen”, même si elle inclut des fournisseurs américains comme AWS ou Microsoft.
-
-Au-delà de la démarche de rassembler des acteurs, Gaia-X vise aussi à expliciter, à faire prendre conscience des enjeux de ce sujet.
-
-Cependant à l’échelle française, la maturité des offres Cloud reste bien en deçà de la concurrence américaine ou chinoise.
-
-De fait, se lancer dans une démarche de souveraineté des données basée sur une offre Cloud française réduit le champ des possibles.
-
-Il manque aux Cloud providers français un effet de levier, ou de marché, qui leur permettrait de déclencher des investissements d’infrastructure propres à concurrencer l’offre américaine.
-
-Aujourd’hui, seule la Chine est capable aujourd’hui d’apporter autant d’investissement que les CSP américains, pour les concurrencer sur leur marché intérieur, car ils ont un volume suffisant et captif.
+Champs des possibles réduit <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 
 
 <!--v-->
@@ -105,14 +66,6 @@ Qu’il s’agisse de nos centres d’intérêt, de nos habitudes de consommatio
 
 En outre, comme l’a montré l’affaire Cambridge Analytica, les données collectées sur ces plateformes numériques peuvent être utilisées pour influencer nos comportements. Ce qui, à l’évidence, pose de graves problèmes éthiques.
 
-<!--v-->
-### Un enjeu de confidentialité des données
-
-Notes: Selon une étude Ifop de janvier 2021, 69 % des Français sont attentifs à l’exploitation de leurs données personnelles. Et 66 % seraient prêts à renoncer à un service numérique en raison d’un manque de transparence sur l’hébergement et l’exploitation de leurs données personnelles.
-
-Malgré ces préoccupations grandissantes, de nombreuses entreprises françaises continuent à utiliser les services d’entreprises américaines, qui sont pourtant toutes soumises au Cloud Act. Promulguée en 2018, cette loi permet aux forces de l’ordre ou aux agences de renseignement américaines d’obtenir sur demande toutes les données stockées sur leurs serveurs, qu’elles soient localisées aux États-Unis ou même … en Europe.
-
-Concrètement, si vous utilisez un logiciel américain, cela veut dire que le gouvernement américain peut potentiellement prendre connaissance de vos données, et les utiliser à des fins de surveillance.
 
 <!--s-->
 ## Quel intérêt pour les entreprises ?
