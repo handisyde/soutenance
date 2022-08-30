@@ -82,7 +82,13 @@ L’initiative vise ainsi à proposer un écosystème de “Cloud Européen”, 
 
 Au-delà de la démarche de rassembler des acteurs, Gaia-X vise aussi à expliciter, à faire prendre conscience des enjeux de ce sujet.
 
-Cependant à l’échelle française, la maturité des offres Cloud reste bien en deçà de la concurrence américaine ou chinoise. De fait, se lancer dans une démarche de souveraineté des données basée sur une offre Cloud française réduit le champ des possibles. Il manque aux Cloud providers français un effet de levier, ou de marché, qui leur permettrait de déclencher des investissements d’infrastructure propres à concurrencer l’offre américaine. Aujourd’hui, seule la Chine est capable aujourd’hui d’apporter autant d’investissement que les CSP américains, pour les concurrencer sur leur marché intérieur, car ils ont un volume suffisant et captif.
+Cependant à l’échelle française, la maturité des offres Cloud reste bien en deçà de la concurrence américaine ou chinoise.
+
+De fait, se lancer dans une démarche de souveraineté des données basée sur une offre Cloud française réduit le champ des possibles.
+
+Il manque aux Cloud providers français un effet de levier, ou de marché, qui leur permettrait de déclencher des investissements d’infrastructure propres à concurrencer l’offre américaine.
+
+Aujourd’hui, seule la Chine est capable aujourd’hui d’apporter autant d’investissement que les CSP américains, pour les concurrencer sur leur marché intérieur, car ils ont un volume suffisant et captif.
 
 
 <!--v-->
