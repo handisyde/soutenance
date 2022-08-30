@@ -167,15 +167,9 @@ Plus besoin d’envoyer des messages en anglais à un support client lointain, v
 EXPERIENCE PRO: Architecture d'hébérgement sur mesure, au plus près du client.
 
 <!--s-->
-## Alternatives aux GAFAM et solutions ?
+## Solution par l'exemple : Cosium
 
-Notes: Selon l’étude d’Ifop, 69 % des Français se sentent contraints d’utiliser les services des géants américains en raison du manque d’alternatives européennes.
 
-Pourtant, l’Europe regorge d’acteurs numériques qui sont largement à la hauteur des grandes entreprises américaines, et qui, contrairement à ces dernières, ne sont pas soumis au Cloud Act.
-
-Cependant, en raison de la forte concurrence sur ce marché, les alternatives européennes manquent souvent de visibilité. Si nous souhaitons faire émerger nos propres licornes, il est donc essentiel de les soutenir de manière concrète, en privilégiant – quand cela est possible – le made in Europe.
-
-Alors la prochaine fois que vous avez besoin d’un logiciel professionnel, d’une plateforme d'hébergement ou d’une solution de stockage sécurisée, demandez-vous d’abord : cette solution est-elle française (ou européenne) ? Et si oui, où héberge-t-elle ses données ?
 
 <!--s-->
 ## Pour conclure
