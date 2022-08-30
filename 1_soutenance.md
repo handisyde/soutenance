@@ -72,10 +72,20 @@ Cependant, cette initiative est loin de régler le problème, puisque les GAFAM 
 
 Maturité <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
 
-Peu  d'effets de levier<!-- .element: class="fragment fade-in" data-fragment-index="2" -->
+Peu  d'effets de levier <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 
-Maîtrise des coûts <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
+Notes: Investir dans le Cloud au niveau européen, c’est se positionner en tant que leader technologique. 
 
+Le moment est peut-être venu de reprendre la main sur les sujets technologiques innovants, comme les processeurs ou le Cloud.
+
+L’initiative vise ainsi à proposer un écosystème de “Cloud Européen”, même si elle inclut des fournisseurs américains comme AWS ou Microsoft.
+
+Au-delà de la démarche de rassembler des acteurs, Gaia-X vise aussi à expliciter, à faire prendre conscience des enjeux de ce sujet.
+
+Cependant à l’échelle française, la maturité des offres Cloud reste bien en deçà de la concurrence américaine ou chinoise. De fait, se lancer dans une démarche de souveraineté des données basée sur une offre Cloud française réduit le champ des possibles. Il manque aux Cloud providers français un effet de levier, ou de marché, qui leur permettrait de déclencher des investissements d’infrastructure propres à concurrencer l’offre américaine. Aujourd’hui, seule la Chine est capable aujourd’hui d’apporter autant d’investissement que les CSP américains, pour les concurrencer sur leur marché intérieur, car ils ont un volume suffisant et captif.
+
+
+<!--v-->
 
 ### Un enjeu éthique
 
@@ -112,7 +122,15 @@ Mais concrètement, qu’est-ce que les entreprises ont à gagner en choisissant
 <!--v-->
 ### Protéger nos données
 
-Notes: Opter pour des solutions européennes offre une garantie essentielle en termes de protection des données. En effet, au-delà de l’obligation de se conformer au RGPD européen, elles ne sont pas soumises au Cloud Act, et protègent donc plus efficacement vos données, celles de vos collaborateurs et celles de vos clients.
+Vision sur la protection des donnnées <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
+Données sensibles <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
+
+Contexte géopolitique <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
+
+Notes: Opter pour des solutions européennes offre une garantie essentielle en termes de protection des données.
+
+En effet, au-delà de l’obligation de se conformer au RGPD européen, elles ne sont pas soumises au Cloud Act, et protègent donc plus efficacement vos données, celles de vos collaborateurs et celles de vos clients.
 
 Cet enjeu est particulièrement important pour les entreprises qui traitent des données sensibles dans des secteurs comme la défense, la sécurité ou de la santé, mais aussi celles qui souhaitent protéger leur propriété intellectuelle, et éviter l’espionnage industriel.
 
@@ -121,6 +139,11 @@ EXPÉRIENCE PRO2: Forum Devoxx France, conférence de Doctolib sur les performan
 
 <!--v-->
 ### Rassurer nos clients
+
+Fuite de données <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
+
+44 % des Français font davantage confiance à un acteur français ou européen <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
+
 
 Notes: Face aux récentes vagues de fuites et de vols de données chez les éditeurs américains, les entreprises portent aujourd’hui une attention accrue à la sécurité et l’hébergement de leurs données.
 
