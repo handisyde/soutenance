@@ -60,12 +60,6 @@ Vente de données aux annonceurs <!-- .element: class="fragment fade-in" data-fr
 
 Influence comportementale <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 
-Notes: Comme le précise le dernier rapport de la CERNA (Commission de réflexion sur l’Éthique de la Recherche en sciences et technologies du Numérique d’Allistene), la souveraineté numérique porte aussi un enjeu éthique, qui concerne notamment “le droit de chaque individu à préserver sa vie privée”.
-
-Qu’il s’agisse de nos centres d’intérêt, de nos habitudes de consommation, ou encore de nos opinions politiques, les GAFAM savent tout de nous. Et ce, pas uniquement dans le but d’améliorer leurs services. Les données collectées, parfois de manière illégale, sont pour eux une inestimable source de revenus, puisqu’elles leur permettent de vendre aux annonceurs des publicités toujours plus ciblées.
-
-En outre, comme l’a montré l’affaire Cambridge Analytica, les données collectées sur ces plateformes numériques peuvent être utilisées pour influencer nos comportements. Ce qui, à l’évidence, pose de graves problèmes éthiques.
-
 
 <!--s-->
 ## Quel intérêt pour les entreprises ?
